@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
               'Hello',
             ),
             const Text(
-              'Hello 1',
+              'Hello 2',
             ),
             const Text(
               'You have pushed the button this many times:',
